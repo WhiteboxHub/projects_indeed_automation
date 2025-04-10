@@ -20,9 +20,9 @@
             "type": "text"
         },
         "desired_salary": {
-            "xpath": "//*[@id='input-q_9047f66e693ddedd0fe4bc8aa8242f0b']",
+            "xpath": "//*[@id='new-desired-salary-xpath']",
             "value": "150000",
-            "type": "text"
+            "type":"text"
         },
         "notice_period": {
             "xpath_group": "//*[@id='input-q_742378a18778116eb186bc29b81d2653']//label",
